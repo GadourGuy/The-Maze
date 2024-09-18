@@ -26,3 +26,4 @@ $ gcc -Wall -Werror -Wextra -pedantic ./game/*.c -lm -o maze `sdl2-config --cfla
 
 
 
+![Screenshot 2024-09-19 005941](https://github.com/user-attachments/assets/6e3a3faf-3f20-4597-9a69-359f60f01adc)
